@@ -8,8 +8,8 @@ Pytorch Implementation of an Areal Crowdcounting Framework based on ASNet
 
 ## Trained Model
 
-This framework utilizes trained model's parameters provided in https://github.com/laridzhang/ASNet.
-#####[Link](https://pan.baidu.com/s/1jQgBsDy90UfzlLafXgTcXQ), Password: 585s
+This framework utilizes trained model's parameters provided in https://github.com/laridzhang/ASNet.  
+[Link](https://pan.baidu.com/s/1jQgBsDy90UfzlLafXgTcXQ), Password: 585s
 After downloading the model, put it under the directory "./final_model".
 
 ## Data
